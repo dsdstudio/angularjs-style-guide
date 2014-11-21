@@ -21,19 +21,19 @@ AngularJS 어플리케이션 제작에 있어서는 [구글 자바스크립트 �
 AngularJS GitHub 위키에는 [ProLoser](https://github.com/ProLoser)가 작성한 관련된 부분이 있습니다. [여기](https://github.com/angular/angular.js/wiki)에서 확인하실 수 있습니다..
 
 #차례
-* [일반](#general)
-    * [디렉토리 구조](#directory-structure)
-    * [Digest cycle 최적화](#optimize-the-digest-cycle)
-    * [기타](#others)
-* [모듈](#modules)
-* [컨트롤러](#controllers)
-* [디렉티브](#directives)
-* [필터](#filters)
-* [서비스](#services)
-* [템플릿](#templates)
-* [라이팅](#routing)
-* [테스트](#testing)
-* [기여](#contribution)
+* [일반](#일반)
+    * [디렉토리 구조](#디렉토리 구조)
+    * [Digest cycle 최적화](#Digest cycle 최적화)
+    * [기타](#기타)
+* [모듈](#모듈)
+* [컨트롤러](#컨트롤러)
+* [디렉티브](#디렉티브)
+* [필터](#필터)
+* [서비스](#서비스)
+* [템플릿](#템플릿)
+* [라우팅](#라우팅)
+* [테스트](#테스트)
+* [기여](#기여)
 
 #일반
 
